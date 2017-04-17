@@ -5,7 +5,7 @@
 # https://hub.docker.com/r/jrottenberg/ffmpeg/
 #
 #
-FROM        ubuntu:16.04
+FROM        php:5.6-cli
 MAINTAINER  Julien Rottenberg <julien@rottenberg.info>
 
 
