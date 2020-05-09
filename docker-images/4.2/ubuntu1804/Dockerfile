@@ -5,7 +5,7 @@
 # https://hub.docker.com/r/jrottenberg/ffmpeg/
 #
 #
-FROM        ubuntu:18.04 AS base
+FROM        php:7.2-cli AS base
 
 WORKDIR     /tmp/workdir
 
